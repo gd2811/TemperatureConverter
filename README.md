@@ -20,7 +20,4 @@ This project implements a temperature converter using HTML, CSS, and JavaScript.
 - **CSS**: Stylesheet language for styling the elements and layout of the page.
 - **JavaScript**: Programming language for implementing the conversion logic and interactivity of the temperature converter.
 
-## Future Enhancements
 
-- **Unit Selection**: Add options for users to select the units they want to convert between.
-- **Additional Temperature Scales**: Incorporate support for additional temperature scales, such as Rankine and Celsius.
